@@ -89,7 +89,16 @@
 .hero-img-flex-container div p{
   padding-top: 10px;
 }
+
 @media(max-width:1024px){
+  .hero-img-flex-container{
+  flex-wrap: wrap;
+gap: 10px;
+
+  }
+ 
+}
+@media(max-width:834px){
   .hero-img-flex-container{
     flex-direction: column;
 gap: 80px;
