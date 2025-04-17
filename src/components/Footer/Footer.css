@@ -14,3 +14,8 @@ font-weight: lighter;
 .footer-p{
     text-align: center;
 }
+@media(max-width:480px){
+    .footer-links{
+        padding: 40px;
+    }
+}
