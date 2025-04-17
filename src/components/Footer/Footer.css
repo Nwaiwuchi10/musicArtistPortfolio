@@ -16,6 +16,9 @@ font-weight: lighter;
 }
 @media(max-width:480px){
     .footer-links{
-        padding: 40px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
     }
+
 }
