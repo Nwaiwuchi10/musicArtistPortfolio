@@ -9,7 +9,7 @@ const WorkTogetherSection = () => {
       <div className="image-side"></div>
       <div className="text-center">
         <h1>Lets work together</h1>
-        <p>Get in touch</p>
+        <p><a href="tel:+2348145306090">Get in touch</a> </p>
       </div>
     </section>
   );

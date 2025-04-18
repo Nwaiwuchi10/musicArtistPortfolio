@@ -1,13 +1,13 @@
 
 import "./Hero.css"
-import linkImg from "../../assets/Images/8.png"
-import linkImg2 from "../../assets/Images/4.png"
-import linkImg3 from "../../assets/Images/7.png"
-import linkImg4 from "../../assets/Images/link-1.png"
+import linkImg from "../../assets/Images/hy.png"
+import linkImg2 from "../../assets/Images/hs.png"
+import linkImg3 from "../../assets/Images/kd.png"
+import linkImg4 from "../../assets/Images/jk.jpg"
 import whatsapp from "../../assets/Images/whatsapp-removebg-preview-Picsart-AiImageEnhancer.png";
 const HeroSection = () => {
   const WhatsappClick = () => {
-    const phoneNumber = "+15512442572";
+    const phoneNumber = "+2348145306090";
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");
   };
@@ -15,7 +15,9 @@ const HeroSection = () => {
     <section>
       <section className="hero">
       <div className="hero-content">
-        <h2>The Fashion Industry through a Lense
+        <h2>
+A Professional Gospel Musical Artist
+          {/* The Fashion Industry through a Lense */}
         </h2>
       </div>
      

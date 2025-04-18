@@ -21,10 +21,18 @@ const About = () => {
     <div><FaFacebook className="about-icon" /> </div>
    </div>
 <div className="about-second-section">
-    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur</p>
-<p>Erat placerat. In iaculis arcu eros, eget tempus orci facilisis id. Praesent lorem orci, mattis non efficitur id, ultricies vel nibh. Sed volutpat lacus vitae gravida viverra. Fusce vel tempor elit. Proin tempus, magna id scelerisque vestibulum, nulla ex</p>
-<p>Pharetra sapien, tempor posuere massa neque nec felis. Aliquam sem ipsum, vehicula ac tortor vel, egestas ullamcorper dui. Curabitur at risus sodales, tristique est id, euismod justo. Mauris nec leo non libero sodales lobortis. Quisque a neque pretium, dictum tellus vitae, euismod neque. Nulla facilisi. Phasellus ultricies dignissim nibh ut.</p>
-Nam et quam sit amet turpis finibus maximus tempor eget augue. Aenean at ultricies lorem. Sed egestas ligula tortor, sit amet mattis ex feugiat non. Duis purus diam, dictum et ante at, commodo iaculis urna. Aenean lacinia, nisl id vehicula condimentum, enim massa.
+    <p>
+
+   Chimas is Born and raised in Eastern Nigeria within a devout Christian family, Chimas discovered his passion for music at an early age, inspired by the rich gospel sounds that shaped his spiritual foundation. Surrounded by the harmonies of church choirs and the powerful messages of faith-driven songs, he began to nurture his musical gift with a strong desire to uplift and inspire others through sound. This passion would soon evolve into a calling—one that transcends performance and speaks directly to the soul.
+    </p>
+<p>As a proud member of the Tunecore community, Chimas h
+  
+  
+  as continued to share his ministry with the world through professionally distributed songs that resonate across different generations and cultures. His sound blends Afro-gospel rhythms with soul-stirring messages, creating a distinct identity that sets him apart in the ever-growing gospel music landscape. Whether through personal devotionals or live worship sessions, his music carries a message of hope, redemption, and purpose.</p>
+<p>Outside the studio, Chimas is a dedicated realtor and building contractor, driven by integrity and excellence in every venture. His life is a testament to faith in action—balancing music, ministry, and entrepreneurship while remaining grounded in his values.
+  
+</p>
+
 
 </div>
 </div>

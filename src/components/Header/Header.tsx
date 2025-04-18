@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Header.css';
 import { FaBars, FaTimes } from 'react-icons/fa';
-
+import logo from "../../assets/Images/vecteezy_music-note-logo-vector-template_6559143-Picsart-AiImageEnhancer-removebg-preview-Picsart-AiImageEnhancer.png"
 const Header: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -10,7 +10,7 @@ const Header: React.FC = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <h1 className="logo">MyLogo</h1>
+        <div className="logo"><img src={logo} /> </div>
         <ul className={`nav-links ${isOpen ? 'active' : ''}`}>
           <li><a href="#">Home</a></li>
           <li><a href="#">About</a></li>

@@ -15,10 +15,19 @@
     text-transform: uppercase;
   }
   
-  .logo {
+  /* .logo {
     font-size: 1.5rem;
     font-weight: lighter;
     font-style: oblique;
+  } */
+  .logo{
+    width: 100px;
+    height: 100px;
+  }
+  .logo img{
+    width: 100%;
+    height: 100%;
+  object-fit: cover;
   }
   
   .nav-links {
@@ -57,10 +66,16 @@
       padding: 1rem 0;
       text-align: center;
       gap: 1.5rem;
+      margin-top: 70px;
+     
     }
-  
+  .navbar{
+    /* height: 100vh; */
+    
+  }
     .nav-links.active {
       display: flex;
+     
     }
   
     .menu-toggle {

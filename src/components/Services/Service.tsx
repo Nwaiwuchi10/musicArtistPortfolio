@@ -1,5 +1,5 @@
 
-import p9 from "../../assets/Images/p-9.jpg"
+import p9 from "../../assets/Images/net.jpeg"
 import "./Service.css"
 const Service = () => {
   return (
@@ -9,22 +9,22 @@ const Service = () => {
 
             <div>
 
-            <h3>Photoshoot</h3>
-            <p>Nam et quam sit amet turpis finibus maximus tempor eget augue. Aenean at ultricies lorem. Sed egestas ligula tortor,</p>
+            <h3>Live Performances & Concerts</h3>
+            <p>Offer an electrifying performance on musical concert, crusades, conferences, and gospel concerts through live music.</p>
            <p>
            Explore</p>
-           <h3>Editing</h3>
-           <p>Nam et quam sit amet turpis finibus maximus tempor eget augue. Aenean at ultricies lorem. Sed egestas ligula tortor,</p>
+           <h3>Songwriting</h3>
+           <p>Offer services like writing gospel songs & collaboration with other musical artists.</p>
            <p>
            Explore</p>
             </div>
-            <div > <img src={p9} /></div>
-            <div> <h3>Photoshoot</h3>
-            <p>Nam et quam sit amet turpis finibus maximus tempor eget augue. Aenean at ultricies lorem. Sed egestas ligula tortor,</p>
+            <div className="div-p9-img" > <img src={p9} /></div>
+            <div> <h3>Music Production</h3>
+            <p>Offers music production, Recording, Voice Backup and Live Mix</p>
            <p>
            Explore</p>
-           <h3>Editing</h3>
-           <p>Nam et quam sit amet turpis finibus maximus tempor eget augue. Aenean at ultricies lorem. Sed egestas ligula tortor,</p>
+           <h3>Mentorship & Music Training</h3>
+           <p>Train upcoming gospel artists or worship leaders through workshops, seminars, or one-on-one mentorship.</p>
            <p>
            Explore</p></div>
         </div>
