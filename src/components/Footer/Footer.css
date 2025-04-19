@@ -11,6 +11,9 @@
 .footer-links h4{
 font-weight: lighter;
 }
+.footer-links h4 >a{
+    text-decoration: none;
+}
 .footer-p{
     text-align: center;
 }

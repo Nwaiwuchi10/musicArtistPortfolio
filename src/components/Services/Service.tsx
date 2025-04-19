@@ -3,7 +3,7 @@ import p9 from "../../assets/Images/net.jpeg"
 import "./Service.css"
 const Service = () => {
   return (
-    <div >
+    <div id="Service">
         <h2 className="service-h2">Services</h2>
         <div className="service-content-display">
 

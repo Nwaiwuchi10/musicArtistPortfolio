@@ -4,7 +4,7 @@ import './Work.css';
 const WorkTogetherSection = () => {
     
   return (
-    <section className="work-section">
+    <section className="work-section" id='Work'>
       <div className="black-side"></div>
       <div className="image-side"></div>
       <div className="text-center">

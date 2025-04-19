@@ -12,8 +12,8 @@ const HeroSection = () => {
     window.open(url, "_blank");
   };
   return (
-    <section>
-      <section className="hero">
+    < >
+      <section className="hero" id="heroSection">
       <div className="hero-content">
         <h2>
 A Professional Gospel Musical Artist
@@ -25,24 +25,25 @@ A Professional Gospel Musical Artist
     <div className="hero-img-flex-container">
       <div> <div><img src={linkImg}/> </div>
       <p>
-      Biography</p></div>
+      <a href="tel:+2348145306090">Get in touch</a>
+      </p></div>
        
       <div> <div><img src={linkImg2}/> </div>
       <p>
-      Biography</p></div>
+      <a href="tel:+2348145306090">Get in touch</a></p></div>
       <div> <div><img src={linkImg3}/> </div>
       <p>
-      Biography</p></div>
+      <a href="tel:+2348145306090">Get in touch</a></p></div>
       <div> <div><img src={linkImg4}/> </div>
       <p>
-      Biography</p></div>
+      <a href="tel:+2348145306090">Get in touch</a></p></div>
       </div>
       <div className="whatsapp-img-div">
         <div className="whatsapp-img-size" onClick={WhatsappClick}>
           <img src={whatsapp} alt="whatsapp" className="whatsapp-img" />
         </div>{" "}
       </div>
-    </section>
+    </>
     
   )
 }

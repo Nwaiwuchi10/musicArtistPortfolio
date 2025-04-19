@@ -1,6 +1,6 @@
 
   .hero {
-    position: relative;
+    /* position: relative; */
     height: 120vh;
     background: 
     /* radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 50%, black 100%),
@@ -95,6 +95,10 @@
 }
 .hero-img-flex-container div p{
   padding-top: 10px;
+}
+.hero-img-flex-container div p >a{
+  text-transform: uppercase;
+  text-decoration: none;
 }
 .whatsapp-img-div {
   position: fixed;
