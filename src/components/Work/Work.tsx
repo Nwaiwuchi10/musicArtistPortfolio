@@ -10,6 +10,8 @@ const WorkTogetherSection = () => {
       <div className="text-center">
         <h1>Lets work together</h1>
         <p><a href="tel:+2348145306090">Get in touch</a> </p>
+
+        <p style={{textTransform:"lowercase", marginTop:"13px"}}>@turuchichimas@yahoo.com</p>
       </div>
     </section>
   );

@@ -19,7 +19,7 @@ const Footer = () => {
 <h4><a href={socialLinks.youtube} target="_blank" rel="noopener noreferrer">YouTube</a></h4>
 <h4><a href={socialLinks.tiktok} target="_blank" rel="noopener noreferrer">TikTok</a></h4>
         </div>
-
+        <p className='footer-p' style={{marginBottom:"20px"}}>turuchichimas@yahoo.com</p>
         <p className='footer-p'>Copyright © 2025</p>
     </section>
   )
